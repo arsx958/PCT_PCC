@@ -49,7 +49,7 @@ You can unzip pretrained models to `log`.
 }
 ```
 
-Our code is built on https://github.com/linyaog/point_based_pcgc.
+Our code is built on https://github.com/linyaog/point_based_pcgc
 
 ```shell
 @inproceedings{gao2021point,
