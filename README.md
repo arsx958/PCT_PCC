@@ -37,6 +37,9 @@ You can unzip pretrained models to `log`.
  python train.py --dataset_path='dataset_path'
 ```
 
+### If you found our project useful, please cite:
+
+```shell
 @inproceedings{zhang2022transformer,
   title={Transformer and Upsampling-Based Point Cloud Compression},
   author={Zhang, Junteng and Liu, Gexin and Ding, Dandan and Ma, Zhan},
@@ -44,8 +47,18 @@ You can unzip pretrained models to `log`.
   pages={33--39},
   year={2022}
 }
+```
 
-Our code is build on https://github.com/linyaog/point_based_pcgc
+Our code is built on https://github.com/linyaog/point_based_pcgc
 
-@INPROCEEDINGS{9506631, author={Gao, Linyao and Fan, Tingyu and Wan, Jianqiang and Xu, Yiling and Sun, Jun and Ma, Zhan}, booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, title={Point Cloud Geometry Compression Via Neural Graph Sampling}, year={2021}, volume={}, number={}, pages={3373-3377}, doi={10.1109/ICIP42928.2021.9506631}}
+```shell
+@inproceedings{gao2021point,
+  title={Point cloud geometry compression via neural graph sampling},
+  author={Gao, Linyao and Fan, Tingyu and Wan, Jianqiang and Xu, Yiling and Sun, Jun and Ma, Zhan},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
+  pages={3373--3377},
+  year={2021},
+  organization={IEEE}
+}
+```
 
