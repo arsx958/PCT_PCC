@@ -39,7 +39,7 @@ You can unzip pretrained models to `log`.
 
 ### If you find our project useful, please cite:
 
-```shell
+```
 @inproceedings{zhang2022transformer,
   title={Transformer and Upsampling-Based Point Cloud Compression},
   author={Zhang, Junteng and Liu, Gexin and Ding, Dandan and Ma, Zhan},
