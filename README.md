@@ -37,3 +37,15 @@ You can unzip pretrained models to `log`.
  python train.py --dataset_path='dataset_path'
 ```
 
+@inproceedings{zhang2022transformer,
+  title={Transformer and Upsampling-Based Point Cloud Compression},
+  author={Zhang, Junteng and Liu, Gexin and Ding, Dandan and Ma, Zhan},
+  booktitle={Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis},
+  pages={33--39},
+  year={2022}
+}
+
+Our code is build on https://github.com/linyaog/point_based_pcgc
+
+@INPROCEEDINGS{9506631, author={Gao, Linyao and Fan, Tingyu and Wan, Jianqiang and Xu, Yiling and Sun, Jun and Ma, Zhan}, booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, title={Point Cloud Geometry Compression Via Neural Graph Sampling}, year={2021}, volume={}, number={}, pages={3373-3377}, doi={10.1109/ICIP42928.2021.9506631}}
+
