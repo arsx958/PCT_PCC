@@ -49,7 +49,9 @@ You can unzip pretrained models to `log`.
 }
 ```
 
-Our sincere gratitude is directed to the authors of paper **"Point cloud geometry compression via neural graph sampling"** (https://github.com/linyaog/point_based_pcgc) for discussing experiments in detail and providing open source code.
+Our sincere gratitude is directed to the authors of paper **"Point cloud geometry compression via neural graph sampling"** for discussing experiments in detail and providing open source code.
+
+Our code is bulit on https://github.com/linyaog/point_based_pcgc
 
 ```shell
 @inproceedings{gao2021point,
