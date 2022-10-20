@@ -16,6 +16,7 @@ Learning-based point cloud compression has exhibited superior coding performance
 
 - pytorch 1.7 or 1.8
 
+- Pretrained Models: https://drive.google.com/file/d/13M4T3WT1b9OwUQA7bd8vdbPomYQNIebu/view?usp=sharing
 
 - Training dataset and Testdata: [ShapeNetCore.v2](https://github.com/AnTao97/PointCloudDatasets)
 
@@ -28,7 +29,7 @@ sudo chmod 777 utils/pc_error
 python test.py --dataset_path='dataset_path'
 ```
 
-You can unzip pretrained model to `log`.
+You can unzip pretrained models to `log`.
 
 ### Training
 
