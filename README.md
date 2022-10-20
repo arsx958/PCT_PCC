@@ -37,7 +37,7 @@ You can unzip pretrained models to `log`.
  python train.py --dataset_path='dataset_path'
 ```
 
-### If you found our project useful, please cite:
+### If you find our project useful, please cite:
 
 ```shell
 @inproceedings{zhang2022transformer,
@@ -49,7 +49,7 @@ You can unzip pretrained models to `log`.
 }
 ```
 
-Our code is built on https://github.com/linyaog/point_based_pcgc
+Our code is built on https://github.com/linyaog/point_based_pcgc.
 
 ```shell
 @inproceedings{gao2021point,
