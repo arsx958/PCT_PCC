@@ -43,7 +43,7 @@ You can unzip pretrained models to `log`.
 @inproceedings{zhang2022transformer,
   title={Transformer and Upsampling-Based Point Cloud Compression},
   author={Zhang, Junteng and Liu, Gexin and Ding, Dandan and Ma, Zhan},
-  booktitle={Proceedings of the 1st International Workshop on Advances in Point Cloud in Compression, Processing and Analysis},
+  booktitle={Proceedings of the 1st International Workshop on Advances \in Point Cloud Compression, Processing and Analysis},
   pages={33--39},
   year={2022}
 }
