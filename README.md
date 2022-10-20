@@ -43,7 +43,7 @@ You can unzip pretrained models to `log`.
 @inproceedings{zhang2022transformer,
   title={Transformer and Upsampling-Based Point Cloud Compression},
   author={Zhang, Junteng and Liu, Gexin and Ding, Dandan and Ma, Zhan},
-  booktitle={Proceedings of the 1st International Workshop on Advances $in$ Point Cloud Compression, Processing and Analysis},
+  booktitle={Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis},
   pages={33--39},
   year={2022}
 }
@@ -51,7 +51,7 @@ You can unzip pretrained models to `log`.
 
 Our sincere gratitude is directed to the authors of paper **"Point cloud geometry compression via neural graph sampling"** for discussing experiments in detail and providing open source code.
 
-Our code is bulit on https://github.com/linyaog/point_based_pcgc
+Our code is bulit on their open source code.
 
 ```shell
 @inproceedings{gao2021point,
