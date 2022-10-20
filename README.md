@@ -28,7 +28,7 @@ sudo chmod 777 utils/pc_error
 python test.py --dataset_path='dataset_path'
 ```
 
-The pretrained models can be found in `log`.
+You can unzip pretrained model to `log`.
 
 ### Training
 
