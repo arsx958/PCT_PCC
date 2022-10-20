@@ -29,7 +29,7 @@ sudo chmod 777 utils/pc_error
 python test.py --dataset_path='dataset_path'
 ```
 
-You can unzip pretrained models to `log`.
+You can unzip pretrained models to `log`
 
 ### Training
 
